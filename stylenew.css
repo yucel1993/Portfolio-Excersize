@@ -1,0 +1,66 @@
+
+body { height: 90vh;}
+
+#header{
+
+    background-color: black;
+    color: white;
+    display: flex;
+    width: 90%;
+    margin: auto;
+    border-bottom: 5px solid red;
+    justify-content:space-between;
+    text-align: center;
+    
+}
+
+#header a {
+    color: white;
+    text-decoration: none;
+}
+
+#header h1{
+    margin-left: 200px;
+    font-family: 'Audiowide', cursive;
+}
+
+#list{
+
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 180px;
+}
+
+#header li{
+
+   display: inline;
+   text-transform: uppercase;
+   padding: 0 15px;
+   text-align: center;
+   font-family: 'Audiowide', cursive;
+ }
+
+
+
+#main {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('p1.png') ;
+        color: white;
+        background-size: cover;
+        height: 89vh;
+        width: 90%;
+        margin: auto;
+        text-align: center;
+        
+}
+
+#main h1{
+    font-size: 60px;
+    font-family: 'Audiowide', cursive;
+}
+
+#main p{
+    font-size: 30px;
+    font-family: 'Audiowide', cursive;
+    
+}
+
