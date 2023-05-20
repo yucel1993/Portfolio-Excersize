@@ -26,7 +26,7 @@ Feel free to explore projects at your convenience. Each one offers a unique expe
 
 ##Author
 <!-- - Frontend Mentor - [@AliDurul](https://www.frontendmentor.io/profile/DURUL-26) -->
-- Githup - [@AliDurul](https://github.com/AliDurul)
+- Githup - [@yucel1993](https://github.com/AliDurul)
 
 ## Feedback and Collaboration
 I value your feedback and suggestions. If you have any comments, questions, or ideas for improvement regarding this project or any of my other projects, please don't hesitate to reach out. I'm always open to collaboration and welcome the opportunity to work on exciting projects together.
